@@ -276,5 +276,3 @@ WHERE
 )
 GROUP BY
 	e.empSSN, e.empName;
-
-
